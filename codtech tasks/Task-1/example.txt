@@ -1,0 +1,3 @@
+This is the initial text in the file.
+Welcome to file operations demo.
+This is the appended content in the file.
